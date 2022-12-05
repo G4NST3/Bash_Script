@@ -1,3 +1,3 @@
 #!/bin/bash
-message="Hello World111222224444444444444444"
+message="Hello World"
 echo $message
