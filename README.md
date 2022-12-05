@@ -1,7 +1,10 @@
-- #### 1 - [Hello World](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/hello_world.sh) - Print a simple text
-- #### 2 - [Echo Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
-- #### 3 - [Sleep Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
-- #### 4 - [User Input](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/user_input.sh) - get user input value
-- #### Loops
-- #### [While](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/while.sh) - loop code with while condition
-- #### [For](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/for.sh) - loop code with for condition
+- #### [Hello World](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/hello_world.sh) - Print a simple text
+- #### [Echo Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
+- #### [Sleep Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
+- #### [Wait Command]()
+- #### [Comments]()
+- #### [User Input](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/user_input.sh) - get user input value
+- #### Loops:
+  - #### [While](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/while.sh) - loop code with while condition
+  - #### [For](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/for.sh) - loop code with for condition
+- #### [Array](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/array.sh)
