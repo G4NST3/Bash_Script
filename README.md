@@ -1,7 +1,7 @@
 - #### [Hello World](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/hello_world.sh) - Print a simple text
 - #### [Echo Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
 - #### [Sleep Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
-- #### [Wait Command]()
+- #### [Wait Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/wait.sh)
 - #### [Comments]()
 - #### [User Input](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/user_input.sh) - get user input value
 - #### Loops:
