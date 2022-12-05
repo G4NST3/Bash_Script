@@ -1,3 +1,3 @@
 #!/bin/bash
-message="1Hello World"
+message="Hello World"
 echo $message
