@@ -4,7 +4,14 @@
 - #### [Linux Commands]()
 - #### [Comments](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/comments.sh)
 - #### [User Input](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/user_input.sh) - get user input value
-- #### Loops:
-  - #### [While](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/while.sh) - loop code with while condition
-  - #### [For](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/for.sh) - loop code with for condition
+- #### [Loops]()
 - #### [Array](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/array.sh)
+- #### [Conditional Statements]()
+- #### [Functions]()
+- #### [Strings]()
+- #### [Numbers]()
+- #### [Directories]()
+- #### [Files]()
+- #### [Inodes]()
+- #### [Send Email]()
+- #### [Show Server Information]()
