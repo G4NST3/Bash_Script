@@ -1,3 +1,3 @@
 #!/bin/bash
-message="Hello World!00zd00"
+message="Hello World!"
 echo $message
