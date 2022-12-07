@@ -1,4 +1,4 @@
-- #### [Linux-Environment-Variables](https://github.com/G4NST3/Bash_Script/wiki/Linux-Environment-Variables)
+- #### [Linux Environment Variables](https://github.com/G4NST3/Bash_Script/wiki/Linux-Environment-Variables)
 - #### [Hello World](https://github.com/G4NST3/Bash_Script/wiki/Hello-World) - Print a simple text
 - #### [Echo Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
 - #### [Sleep Command](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
