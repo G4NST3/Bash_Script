@@ -7,6 +7,7 @@
 - #### [Linux Commands]()
 - #### [Comments](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/comments.sh)
 - #### [User Input](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/user_input.sh) - get user input value
+- #### [if then Statement](https://github.com/nunonogueir444/Shell_Script/wiki/if-then-Statement)
 - #### [Loops]()
 - #### [Array](https://github.com/G4NST3/Bash_Script/blob/main/bash_scripts/array.sh)
 - #### [Conditional Statements]()
