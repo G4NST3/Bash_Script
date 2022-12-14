@@ -1,13 +1,12 @@
 #!/bin/bash
 
-answer=$[3+1]
-
-echo 'How much is 3+1?'
+echo 'Do you want print some message?'
+echo 'Chose your option:'
+echo '1 for yes'
+echo '2 for no'
 read result
 
-if [ $result -eq $answer ]
+if [ $result -eq 1 ]
 then
-    echo 'Congratulations! :) Wright answer!'
-else
-    echo "Wrong answer. :( The result is $answer."
+    echo 'Here is your message: Bash Script are awesome!!! '
 fi
