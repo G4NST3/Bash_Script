@@ -4,7 +4,7 @@
 - #### [Hello World](https://github.com/nunonogueir444/Shell_Script/wiki/Hello-World) - Print a simple text
 - #### [Echo Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
 - #### [Sleep Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
-- #### [Linux Commands](https://github.com/nunonogueir444/Shell_Script/wiki/Comments)
+- #### [Linux Commands]()
 - #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments)
 - #### [User Input](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/user_input.sh) - get user input value
 - #### [if-then Statement](https://github.com/nunonogueir444/Shell_Script/wiki/if-then-Statement)
