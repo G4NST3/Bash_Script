@@ -1,15 +1,15 @@
 - #### [Shell Scripting Basics](https://github.com/nunonogueir444/Shell_Script/wiki/Shell-Scripting-Basics)
-- #### [Linux Environment Variables](https://github.com/nunonogueir444/Bash_Script/wiki/Linux-Environment-Variables)
+- #### [Linux Environment Variables](https://github.com/nunonogueir444/Shell_Script/wiki/Linux-Environment-Variables)
 - #### [Condition Parameters](https://github.com/nunonogueir444/Shell_Script/wiki/Condition-Parameters)
-- #### [Hello World](https://github.com/nunonogueir444/Bash_Script/wiki/Hello-World) - Print a simple text
-- #### [Echo Command](https://github.com/nunonogueir444/Bash_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
-- #### [Sleep Command](https://github.com/nunonogueir444/Bash_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
+- #### [Hello World](https://github.com/nunonogueir444/Shell_Script/wiki/Hello-World) - Print a simple text
+- #### [Echo Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
+- #### [Sleep Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/3-sleep.sh) - halt running bash script
 - #### [Linux Commands](https://github.com/nunonogueir444/Shell_Script/wiki/Comments)
 - #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments)
-- #### [User Input](https://github.com/nunonogueir444/Bash_Script/blob/main/bash_scripts/user_input.sh) - get user input value
+- #### [User Input](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/user_input.sh) - get user input value
 - #### [if-then Statement](https://github.com/nunonogueir444/Shell_Script/wiki/if-then-Statement)
 - #### [Loops]()
-- #### [Array](https://github.com/nunonogueir444/Bash_Script/blob/main/bash_scripts/array.sh)
+- #### [Array](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/array.sh)
 - #### [Conditional Statements]()
 - #### [Functions]()
 - #### [Strings]()
