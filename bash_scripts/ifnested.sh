@@ -11,7 +11,7 @@ if [ -z $answer ]; then
 fi
 
 # Check if values inserted are integer numbers #################################
-if ! [[ $answer =~ ^[0-9]+$ ]]; then
+if [[ ! $answer =~ ^[0-9]+$ ]]; then
     echo "Only integer numbers are valid."
     exit 1
 fi
