@@ -3,13 +3,13 @@
 - #### [Condition Parameters](https://github.com/nunonogueir444/Shell_Script/wiki/Condition-Parameters)
 - #### [Hello World](https://github.com/nunonogueir444/Shell_Script/wiki/Hello-World) - Print a simple text
 - #### [Echo Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
-- #### [Sleep Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/sleep.sh) - halt running bash script
+- #### [Sleep Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/sleep.sh) - Halt running bash script
 - #### [Linux Commands]() - _Under Construction_
-- #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments) - Comment Code
-- #### [User Input](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/user_input.sh) - get user input value
+- #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments) - Comment dode
+- #### [User Input](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/user_input.sh) - Get user input values
 - #### [if-then Statement](https://github.com/nunonogueir444/Shell_Script/wiki/if-then-Statement)
 - #### [Loops]() - _Under Construction_
-- #### [Array](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/array.sh)
+- #### [Array](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/array.sh) - Create and get array values
 - #### [Conditional Statements]() - _Under Construction_
 - #### [Functions]() - _Under Construction_
 - #### [Strings]() - _Under Construction_
