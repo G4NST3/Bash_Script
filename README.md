@@ -4,18 +4,18 @@
 - #### [Hello World](https://github.com/nunonogueir444/Shell_Script/wiki/Hello-World) - Print a simple text
 - #### [Echo Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
 - #### [Sleep Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/sleep.sh) - halt running bash script
-- #### [Linux Commands]()
+- #### [Linux Commands]() - _Under Construction_
 - #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments)
 - #### [User Input](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/user_input.sh) - get user input value
 - #### [if-then Statement](https://github.com/nunonogueir444/Shell_Script/wiki/if-then-Statement)
-- #### [Loops]()
+- #### [Loops]() - _Under Construction_
 - #### [Array](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/array.sh)
-- #### [Conditional Statements]()
-- #### [Functions]()
-- #### [Strings]()
-- #### [Numbers]()
-- #### [Directories]()
-- #### [Files]()
-- #### [Inodes]()
-- #### [Send Email]()
-- #### [Show Server Information]()
+- #### [Conditional Statements]() - _Under Construction_
+- #### [Functions]() - _Under Construction_
+- #### [Strings]() - _Under Construction_
+- #### [Numbers]() - _Under Construction_
+- #### [Directories]() - _Under Construction_
+- #### [Files]() - _Under Construction_
+- #### [Inodes]() - _Under Construction_
+- #### [Send Email]() - _Under Construction_
+- #### [Show Server Information]() - _Under Construction_
