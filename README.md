@@ -5,7 +5,7 @@
 - #### [Echo Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/echo.sh) - Print a value of a variable
 - #### [Sleep Command](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/sleep.sh) - Halt running bash script
 - #### [Linux Commands]() - _Under Construction_
-- #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments) - Comment dode
+- #### [Comments](https://github.com/nunonogueir444/Shell_Script/wiki/Comments) - Comment code
 - #### [User Input](https://github.com/nunonogueir444/Shell_Script/blob/main/bash_scripts/user_input.sh) - Get user input values
 - #### [if-then Statement](https://github.com/nunonogueir444/Shell_Script/wiki/if-then-Statement)
 - #### [Loops]() - _Under Construction_
